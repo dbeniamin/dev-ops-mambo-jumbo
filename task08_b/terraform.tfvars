@@ -1,7 +1,0 @@
-location            = "westeurope"
-creator_tag         = "beniamin_drimus@epam.com"
-name_prefix         = "cmtr-d1da5937-mod8b"
-aad_group_object_id = "c98c84ed-60ae-4ed0-a394-cdde3c4daf4f"
-acr_login_server    = "mcr.microsoft.com"
-app_image_name      = "cbl-mariner/base/redis"
-image_tag           = "6.2.17-1-cm2.0.20250402"
