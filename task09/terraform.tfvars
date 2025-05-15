@@ -1,0 +1,8 @@
+unique_id           = "cmtr-d1da5937-mod9"
+location            = "North Europe"
+rg_name             = "cmtr-d1da5937-mod9-rg"
+vnet_name           = "cmtr-d1da5937-mod9-vnet"
+vnet_space          = "10.0.0.0/16"
+subnet_name         = "aks-snet"
+subnet_space        = "10.0.0.0/24"
+aks_loadbalancer_ip = "52.155.173.153"
